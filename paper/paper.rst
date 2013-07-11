@@ -3,9 +3,9 @@
 :institution: Heidelberg University Interdisciplinary Center for Neurosciences 
 
 
----
+-----
 Concepts and Guidelines for an “Open Publication Revision” System
----
+-----
 
 .. class:: abstract
 
@@ -16,7 +16,7 @@ Concepts and Guidelines for an “Open Publication Revision” System
    publishing, github, open revision, open peer review
 
 Background
----
+----
 
 Peer review is a widely acclaimed procedure for quality control, the principle of which has circulated in human societies for millennia [Spi02]_.
 Its rationale is both solid and simple: Only people familiar with a certain part of the knowledge network can decide whether and how a new part fits in. 
