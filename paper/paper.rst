@@ -3,9 +3,9 @@
 :institution: Heidelberg University Interdisciplinary Center for Neurosciences 
 
 
-------------------------------------------------
+---
 Concepts and Guidelines for an “Open Publication Revision” System
-------------------------------------------------
+---
 
 .. class:: abstract
 
@@ -15,23 +15,24 @@ Concepts and Guidelines for an “Open Publication Revision” System
 
    publishing, github, open revision, open peer review
 
-Introduction
-------------
+Background
+---
 
-Twelve hundred years ago  |---| in a galaxy just across the hill...
+Peer review is a widely acclaimed procedure for quality control, the principle of which has circulated in human societies for millennia [Spi02]_.
+Its rationale is both solid and simple: Only people familiar with a certain part of the knowledge network can decide whether and how a new part fits in. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien
-tortor, bibendum et pretium molestie, dapibus ac ante. Nam odio orci, interdum
-sit amet placerat non, molestie sed dui. Pellentesque eu quam ac mauris
-tristique sodales. Fusce sodales laoreet nulla, id pellentesque risus convallis
-eget. Nam id ante gravida justo eleifend semper vel ut nisi. Phasellus
-adipiscing risus quis dui facilisis fermentum. Duis quis sodales neque. Aliquam
-ut tellus dolor. Etiam ac elit nec risus lobortis tempus id nec erat. Morbi eu
-purus enim. Integer et velit vitae arcu interdum aliquet at eget purus. Integer
-quis nisi neque. Morbi ac odio et leo dignissim sodales. Pellentesque nec nibh
-nulla. Donec faucibus purus leo. Nullam vel lorem eget enim blandit ultrices.
-Ut urna lacus, scelerisque nec pellentesque quis, laoreet eu magna. Quisque ac
-justo vitae odio tincidunt tempus at vitae tortor.
+The exact implementation of peer review in the context of publishing has changed in accordance with the technological possibilities of the time \cite{Spier2002}, the most recent notable changes including online publishing and review, and the more controversial open access publishing\cite{VanNoorden2013,Parker2013} and open peer review.
+While open access seems to have gained a foothold in the scientific community (notably demonstrated by the recent success of the Public Library of Science journals), the same cannot be said of open peer review.
+
+Many opinion and research articles concern themselves with the benefits\cite{Leek2011,Mainguy2005} and the applicability\cite{vanRooyen1999,vanRooyen2010} of open peer review. 
+It should be noted, however, that this is but the most prominent of many incentives to change peer review.
+A landmark of the discussion of modern publishing was \textit{Nature}'s 2006 series on the trial and debate of peer review \cite{Nature-debate2006}.
+The debate illustrates that the scientific community is bursting with ideas regarding the future of publishing. 
+Some of the articles also show how novel systems have already been implemented \cite{Riley2006,Sandewall2006,Koop2006}, and how one in particular, arXiv\cite{arXiv}, has even become a standard in a number of fields.
+
+The article series shows that seasoned members of the scientific publishing community are vividly aware of a great many shortcomings of current knowledge mediation in general and peer review in particular.
+Such disappointments, complemented by many others, are also shared by less established authors \cite{Mainguy2005}.
+
 
 Of course, no paper would be complete without some source code.  Without
 highlighting, it would look like this::
@@ -201,3 +202,5 @@ References
            Transactions on Terraforming, 21(3):261-300, August 2003.
 
 
+.. [Spi02] R. Spier. *The History of the Peer Review Process*,
+           Trends Biotechnol, 20(8):357-358, August 2002.
