@@ -3,9 +3,9 @@
 :institution: Heidelberg University Interdisciplinary Center for Neurosciences 
 
 
------
+----
 Concepts and Guidelines for an “Open Publication Revision” System
------
+----
 
 .. class:: abstract
 
