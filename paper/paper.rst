@@ -21,7 +21,7 @@ Background
 Peer review is a widely acclaimed procedure for quality control, the principle of which has circulated in human societies for millennia [Spi02]_.
 Its rationale is both solid and simple: Only people familiar with a certain part of the knowledge network can decide whether and how a new part fits in. 
 
-The exact implementation of peer review in the context of publishing has changed in accordance with the technological possibilities of the time \cite{Spier2002}, the most recent notable changes including online publishing and review, and the more controversial open access publishing\cite{VanNoorden2013,Parker2013} and open peer review.
+The exact implementation of peer review in the context of publishing has changed in accordance with the technological possibilities of the time [Spi02]_, the most recent notable changes including online publishing and review, and the more controversial open access publishing\cite{VanNoorden2013,Parker2013} and open peer review.
 While open access seems to have gained a foothold in the scientific community (notably demonstrated by the recent success of the Public Library of Science journals), the same cannot be said of open peer review.
 
 Many opinion and research articles concern themselves with the benefits\cite{Leek2011,Mainguy2005} and the applicability\cite{vanRooyen1999,vanRooyen2010} of open peer review. 
@@ -204,3 +204,7 @@ References
 
 .. [Spi02] R. Spier. *The History of the Peer Review Process*,
            Trends Biotechnol, 20(8):357-358, August 2002.
+	   
+	   
+.. [Van13] R. Van Norden. *Open access: The true cost of science publishing*,
+           Nature, 495(7442):426-429, March 2013.
